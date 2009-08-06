@@ -1,1 +1,16 @@
 a.out
+Makefile.in
+aclocal.m4
+autom4te.cache/
+configure
+depcomp
+install-sh
+missing
+src/Makefile.in
+Makefile
+config.log
+config.status
+src/.deps/
+src/Makefile
+src/endianness
+src/endianness.o
